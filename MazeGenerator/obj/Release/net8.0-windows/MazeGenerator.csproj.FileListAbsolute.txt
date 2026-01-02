@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\bin\Release\net8.0-windows\MazeGenerator.exe
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\bin\Release\net8.0-windows\MazeGenerator.deps.json
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\bin\Release\net8.0-windows\MazeGenerator.runtimeconfig.json
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\bin\Release\net8.0-windows\MazeGenerator.dll
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\bin\Release\net8.0-windows\MazeGenerator.pdb
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\MazeGenerator.MainForm.resources
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\MazeGenerator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\MazeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\MazeGenerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\MazeGenerator.AssemblyInfo.cs
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\MazeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\MazeGenerator.dll
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\refint\MazeGenerator.dll
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\MazeGenerator.pdb
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\MazeGenerator.genruntimeconfig.cache
+C:\Users\User\source\repos\MazeGenerator\MazeGenerator\obj\Release\net8.0-windows\ref\MazeGenerator.dll
